@@ -1,4 +1,4 @@
-#inclue <stdout.h>
+#inclue <stdio.h>
 
 int main() {
   printf("hello");
